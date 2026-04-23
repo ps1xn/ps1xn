@@ -1,10 +1,18 @@
-# Hi, I'm ps1xn 👋
+# Hi, there! 👋
 
-I build clean, reliable software and enjoy turning messy ideas into useful products.
+I'm Juan Pablo Salgado, a normal guy based in Mexico. I like programming and play chess. 
 
-- 💼 Focus: backend systems, APIs, and practical automation  
-- 🧠 Learning: better architecture, one refactor at a time  
-- 🤝 Open to: collaboration on meaningful open-source projects  
-- ⚡ Fun fact: I treat debugging like detective work (coffee is the sidekick)
+## Current Projects ⚡️
 
-If it compiles on the first try, I get suspicious.
+- My personal website
+- An app to read PDFs on iPad
+- A page to analyze chess games with engines like Stockfish or Reckless
+- A 3D/2D Game Engine for Apple Silicon
+
+## Learning 🤓
+
+- AI and Machine Learning
+- Docker
+- Golang
+- Rust
+
